@@ -1,5 +1,4 @@
-![Hey Everyone!🕹️](https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100)
-
+https://capsule-render.vercel.app/api?text=Hey%20There!&animation=fadeIn&type=waving&color=gradient&height=100
 ```yaml
 name: Farhan Mujawar
 role: B.Tech Student in Computer Science and Business Systems
