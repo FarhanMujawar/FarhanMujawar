@@ -55,7 +55,7 @@ fun_fact: "I believe in building solutions that blend nature, tech, and imaginat
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Google_Colaboratory_logo.svg" alt="Google Colab" width="45" height="45"/>
 
 <!-- Anaconda -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Anaconda_Logo.png" alt="Anaconda" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="45" height="45"/>
 
 <!-- Jupyter Notebook -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
@@ -73,12 +73,12 @@ fun_fact: "I believe in building solutions that blend nature, tech, and imaginat
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Google_Bard_logo.svg" alt="Gemini" width="45" height="45"/>
 
 <!-- LLaMA (placeholder icon, as Meta hasn't released official SVGs) -->
-<img src="https://seeklogo.com/images/M/meta-logo-6A3E380A35-seeklogo.com.png" alt="LLaMA" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" alt="LLaMA" width="45" height="45"/>
 
 <!-- Pinecone (from official CDN) -->
 <img src="https://avatars.githubusercontent.com/u/78010615?s=280&v=4" alt="Pinecone" width="45" height="45"/>
 
 <!-- AWS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/>
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="45" height="45"/>
 </p>
 
