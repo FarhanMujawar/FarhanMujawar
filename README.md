@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+GitHub+👨‍💻&animation=fadeIn&type=shark&color=gradient&height=150&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:43e97b,100:38f9d7&height=150&section=header&text=Hey+There!+I’m+Farhan👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 ```yaml
