@@ -39,9 +39,6 @@ fun_fact: "I believe in building solutions that blend nature, tech, and imaginat
 <!-- PyTorch -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
 
-<!-- OpenAI (custom icon) -->
-  <img src="https://raw.githubusercontent.com/FortAwesome/brands/master/svg/openai.svg" alt="OpenAI" width="45" height="45"/>
-
 <!-- Hugging Face -->
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="45" height="45"/>
 
@@ -50,12 +47,6 @@ fun_fact: "I believe in building solutions that blend nature, tech, and imaginat
 
 <!-- Streamlit -->
 <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="45" height="45"/>
-
-<!-- Google Colab -->
-<img src="https://github.com/ssharan25/colab-logo/blob/main/colab.png?raw=true" alt="Google Colab" width="45" height="45"/>
-
-<!-- Anaconda -->
-<img src="https://user-images.githubusercontent.com/74038190/212749124-88c9814e-61e1-4cf0-8430-8c6d455df2b8.png" alt="Anaconda" width="45" height="45"/>
 
 <!-- Jupyter Notebook -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
@@ -71,9 +62,6 @@ fun_fact: "I believe in building solutions that blend nature, tech, and imaginat
 
 <!-- Gemini (placeholder: using Google AI logo for now) -->
 <img src="https://user-images.githubusercontent.com/74038190/212748998-fbebc5b7-1329-4b25-bfcf-0c6f5d3f0133.png" alt="Gemini/Bard" width="45" height="45"/>
-
-<!-- LLaMA (placeholder icon, as Meta hasn't released official SVGs) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Meta_Platforms_Inc._logo.svg/2560px-Meta_Platforms_Inc._logo.svg.png" alt="LLaMA" width="45" height="45"/>
 
 <!-- Pinecone (from official CDN) -->
 <img src="https://avatars.githubusercontent.com/u/78010615?s=280&v=4" alt="Pinecone" width="45" height="45"/>
