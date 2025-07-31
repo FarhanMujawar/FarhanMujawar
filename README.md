@@ -78,14 +78,33 @@ fun_fact: "I believe in building solutions that blend nature, tech, and imaginat
 <!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 
-<!-- WebGL (custom logo since it's not in Devicon) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/WebGL_Logo.svg" alt="WebGL" width="45" height="45"/>
-
-<!-- OpenGL -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/OpenGL_logo.svg" alt="OpenGL" width="45" height="45"/>
-
 <!-- Linux -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
+
+  <!-- Kaggle (custom link) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="45" height="45"/>
+
+  <!-- LeetCode (custom link) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45"/>
+
+  <!-- OpenGL -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/OpenGL_logo.svg" alt="OpenGL" width="45" height="45"/>
+  
+  <!-- PyCharm -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="45" height="45"/>
+
+  <!-- PuTTY (bitmap fallback as SVG isn't available) -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/PuTTY_icon_128px.png" alt="PuTTY" width="45" height="45"/>
+
 </p>
 
 
