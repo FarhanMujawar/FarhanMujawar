@@ -103,4 +103,4 @@ fun_fact: "I believe in building solutions that blend nature, tech, and imaginat
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FarhanMujawar/FarhanMujawar/blob/output/github-contribution-grid-snake.svg)
