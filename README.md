@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey there, I am Farhan🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<!--
-**FarhanMujawar/FarhanMujawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Farhan Mujawar
+role: B.Tech Student in Computer Science and Business Systems
+college: JSPM Rajarshi Shahu College of Engineering, Pune
+interests:
+  - Artificial Intelligence
+  - Generative AI
+  - Machine Learning
+  - Deep Learning
+  - AR/VR Development
+skills:
+  programming_languages:
+    - Python
+    - C++
+    - C
+    - JavaScript
+    - WebGL
+    - OpenGL
+  tools_technologies:
+    - TensorFlow
+    - OpenCV
+    - PyTorch
+    - OpenAI API
+    - Hugging Face
+    - MySQL
+    - Streamlit
+current_projects:
+  - Virtual Healing Garden (AR/VR + AI)
+  - Medicinal Plant Identifier using Deep Learning
+github_goals:
+  - Share meaningful open-source projects
+  - Collaborate with like-minded developers
+  - Contribute to innovative tech solutions
+fun_fact: "I believe in building solutions that blend nature, tech, and imagination."
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/FarhanMujawar/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
