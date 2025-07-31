@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:cad3c8,100:f5f6fa&height=180&section=header&text=Hey%20there!%20I'm%20Farhan%20👨‍💻&fontSize=35&fontColor=4b4b4b&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:cad3c8,100:f5f6fa&height=180&section=header&text=Welcome%20to%20My%20GitHub%20✨&fontSize=35&fontColor=2f2f2f&animation=fadeIn" />
 </div>
 ### <span style="color:#6c5ce7;">👨‍💻 About Me</span>
 <h3 align="left">👨‍💻 About Me</h3>
