@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:cad3c8,100:f5f6fa&height=180&section=header&text=Welcome%20to%20My%20GitHub%20✨&fontSize=35&fontColor=2f2f2f&animation=fadeIn" />
 </div>
-### <span style="color:#6c5ce7;">👨‍💻 About Me</span>
+
 <h3 align="left">👨‍💻 About Me</h3>
 
 ```yaml
@@ -14,25 +14,9 @@ interests:
   - Machine Learning
   - Deep Learning
   - AR/VR Development
-skills:
-  programming_languages:
-    - Python
-    - C++
-    - C
-    - JavaScript
-    - WebGL
-    - OpenGL
-  tools_technologies:
-    - TensorFlow
-    - OpenCV
-    - PyTorch
-    - OpenAI API
-    - Hugging Face
-    - MySQL
-    - Streamlit
 current_projects:
   - Virtual Healing Garden (AR/VR + AI)
-  - Medicinal Plant Identifier using Deep Learning
+  - Medicinal Chatbot
 github_goals:
   - Share meaningful open-source projects
   - Collaborate with like-minded developers
@@ -41,4 +25,10 @@ fun_fact: "I believe in building solutions that blend nature, tech, and imaginat
 
 ```
 
-![Snake animation](https://github.com/FarhanMujawar/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
