@@ -60,13 +60,32 @@ fun_fact: "I believe in building solutions that blend nature, tech, and imaginat
 <!-- Postman -->
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
 
-<!-- Gemini (placeholder: using Google AI logo for now) -->
-<img src="https://user-images.githubusercontent.com/74038190/212748998-fbebc5b7-1329-4b25-bfcf-0c6f5d3f0133.png" alt="Gemini/Bard" width="45" height="45"/>
-
 <!-- Pinecone (from official CDN) -->
 <img src="https://avatars.githubusercontent.com/u/78010615?s=280&v=4" alt="Pinecone" width="45" height="45"/>
 
 <!-- AWS -->
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="45" height="45"/>
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="45" height="45"/>
+
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+
+<!-- C -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+
+<!-- C++ -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+
+<!-- WebGL (custom logo since it's not in Devicon) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/WebGL_Logo.svg" alt="WebGL" width="45" height="45"/>
+
+<!-- OpenGL -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/OpenGL_logo.svg" alt="OpenGL" width="45" height="45"/>
+
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
 </p>
+
 
