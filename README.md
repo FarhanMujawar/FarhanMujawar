@@ -5,23 +5,23 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 ```yaml
-name: Farhan Mujawar
-role: B.Tech Student in Computer Science and Business Systems
-college: JSPM Rajarshi Shahu College of Engineering, Pune
-interests:
+Name: Farhan Mujawar
+Role: B.Tech Student in Computer Science and Business Systems
+College: JSPM Rajarshi Shahu College of Engineering, Pune
+Interests:
   - Artificial Intelligence
   - Generative AI
   - Machine Learning
   - Deep Learning
   - AR/VR Development
-current_projects:
+Current_projects:
   - Virtual Healing Garden (AR/VR + AI)
   - Medicinal Chatbot
-github_goals:
+Github_goals:
   - Share meaningful open-source projects
   - Collaborate with like-minded developers
   - Contribute to innovative tech solutions
-fun_fact: "I believe in building solutions that blend nature, tech, and imagination."
+Fun_fact: "I believe in building solutions that blend nature, tech, and imagination."
 
 ```
 
